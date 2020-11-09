@@ -1,4 +1,4 @@
-### Hello World! 👋
+<h1>Hello World! 👋</h1>
 <img src="https://media.bitdegree.org/storage/media/images/2018/10/Top-10-Tips-To-Learn-JavaScript.jpg">
 
 **Currently I am a Front-End Developer, I work as a Freelancer in my company Zanle Group, a personal project dedicated to the creation of Websites and Apps.
