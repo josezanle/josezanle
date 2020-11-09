@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img src="https://media.bitdegree.org/storage/media/images/2018/10/Top-10-Tips-To-Learn-JavaScript.jpg" height="100px>
+<img src="https://media.bitdegree.org/storage/media/images/2018/10/Top-10-Tips-To-Learn-JavaScript.jpg" height="100px">
 
 **Currently I am a Front-End Developer, I work as a Freelancer in my company Zanle Group, a personal project dedicated to the creation of Websites and Apps.
 My main language is Javascript, I use React js, Sass, React Native, Redux, Postman, among other things.
