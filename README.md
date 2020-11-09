@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
 
 
-**josezanle/josezanle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently I am a Front-End Developer, I work as a Freelancer in my company Zanle Group, a personal project dedicated to the creation of Websites and Apps.
+
+My main language is Javascript, I use React js, Sass, React Native, Redux, Postman, among other things.
+
+I like to share what I do, if you need anything, feel free to contact me, "Life is beautiful with friends."
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
