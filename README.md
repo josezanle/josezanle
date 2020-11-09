@@ -8,8 +8,8 @@ I like to share what I do, if you need anything, feel free to contact me, "Life 
 You can contact me on the following sites:
 
 👋-https://www.linkedin.com/in/jose-rios-66197a1a5/ <br/>
-👋-https://www.jose-rios.netlify.app
-👋-https://www.instagram.com/zanle_group/
-👋-https://www.facebook.com/Josezanle
+👋-https://www.jose-rios.netlify.app <br/>
+👋-https://www.instagram.com/zanle_group/ <br/>
+👋-https://www.facebook.com/Josezanle <br/>
 
 
