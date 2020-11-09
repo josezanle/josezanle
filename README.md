@@ -2,12 +2,12 @@
 
 
 **Currently I am a Front-End Developer, I work as a Freelancer in my company Zanle Group, a personal project dedicated to the creation of Websites and Apps.
-
 My main language is Javascript, I use React js, Sass, React Native, Redux, Postman, among other things.
-
 I like to share what I do, if you need anything, feel free to contact me, "Life is beautiful with friends."
 
-- 🔭 I’m currently working on ...
+You can contact me on the following sites:
+
+- www.facebook.com
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
