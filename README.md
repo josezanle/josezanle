@@ -1,13 +1,45 @@
-<h1>Hello World! 👋</h1>
-<img src="https://res.cloudinary.com/dubv6xkxf/image/upload/v1722392689/aeiqngwmonq0ewxwcvvi.png">
+# Hi there, I'm Jose! 👋 
 
-Currently I am a Front-End Developer, I work as a Freelancer in my company Zanle Studio, a personal project dedicated to the creation of Websites and Apps.
-<br/>
-My main language is Javascript, I use React js, Sass, React Native, Redux, Postman, among other things.
-<br/>
-I like to share what I do, if you need anything, feel free to contact me, "Life is beautiful with friends."
+<p align="center">
+  <img src="https://res.cloudinary.com/dubv6xkxf/image/upload/v1722392689/aeiqngwmonq0ewxwcvvi.png" width="600" alt="Zanle Studio Banner">
+</p>
 
-You can contact me on the following sites:
+### 🚀 Full-Stack Developer | Founder at Zanle Studio
 
-👋-https://www.linkedin.com/in/jose-rios-lm/ <br/>
-👋-https://zanle.studio/ <br/>
+I am a **Full-Stack Software Developer** with 35 years of age, based in Buenos Aires, Argentina. Currently, I lead **Zanle Studio**, where I architect and develop high-performance digital solutions, from complex web platforms to mobile applications.
+
+My focus is on building scalable backends, integrating blockchain technology, and creating seamless user experiences.
+
+---
+
+### 🛠️ Technical Stack
+
+**Backend & Infrastructure**
+* **Core:** Python (Django & Django REST Framework)
+* **Database & Cache:** PostgreSQL, Redis
+* **DevOps:** Docker, Docker Compose, Cloudflare (Workers, R2, Stream)
+* **Real-time:** Celery, WebSockets
+
+**Web & Mobile Frontend**
+* **Frameworks:** React.js, React Native, Vite, Astro
+* **State & Styling:** Redux, Sass, Tailwind CSS
+
+**Web3 & Blockchain**
+* **Smart Contracts:** Solidity
+* **Integration:** Web3.py, USDT (BEP20) payment gateways, Wallet integration
+
+---
+
+### 🏗️ Current Focus
+* **ShowMe:** Developing a subscription-based digital content platform.
+* **Zanle Studio:** Scaling software services and international corporate structuring.
+* **AI Integration:** Implementing LLMs (Ollama, Qwen) and serverless AI into production workflows.
+
+---
+
+### 📬 Connect with me
+* **Portfolio:** [zanle.studio](https://zanle.studio/)
+* **LinkedIn:** [jose-rios-lm](https://www.linkedin.com/in/jose-rios-lm/)
+* **Email:** Tu correo aquí si quieres.
+
+*"Life is beautiful with friends and great code."*
