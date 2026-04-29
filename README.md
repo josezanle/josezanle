@@ -38,8 +38,8 @@ My focus is on building scalable backends, integrating blockchain technology, an
 ---
 
 ### 📬 Connect with me
-* **Portfolio:** [zanle.studio](https://zanle.studio/)
+* **Portfolio:** [zanle.studio](https://zanle.studio/](https://zanle-studio.com/))
 * **LinkedIn:** [jose-rios-lm](https://www.linkedin.com/in/jose-rios-lm/)
-* **Email:** Tu correo aquí si quieres.
+* **Email:** jose.rios.lm@gmail.com.
 
 *"Life is beautiful with friends and great code."*
