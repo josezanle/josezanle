@@ -30,15 +30,8 @@ My focus is on building scalable backends, integrating blockchain technology, an
 
 ---
 
-### 🏗️ Current Focus
-* **ShowMe:** Developing a subscription-based digital content platform.
-* **Zanle Studio:** Scaling software services and international corporate structuring.
-* **AI Integration:** Implementing LLMs (Ollama, Qwen) and serverless AI into production workflows.
-
----
 
 ### 📬 Connect with me
-* **Portfolio:** [zanle.studio](https://zanle-studio.com/)
 * **LinkedIn:** [jose-rios-lm](https://www.linkedin.com/in/jose-rios-lm/)
 * **Email:** jose.rios.lm@gmail.com.
 
